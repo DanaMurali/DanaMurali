@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanaMurali
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Java & Springboot
+- 🌱 I’m currently learning Python & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/darania-m-b08134146/
 

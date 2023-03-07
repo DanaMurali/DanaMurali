@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanaMurali
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Python & React
+- 👀 I’m interested in Backend Engineering
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/darania-m-b08134146/
 
